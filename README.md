@@ -1,2 +1,2 @@
-# AudioStyleYTransfer
+# AudioStyleTransfer
 Deep Audio Style Transfer
